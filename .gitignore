@@ -1,4 +1,4 @@
-# 此为仓库层级 .gitignore 文件，定义团队级别的仓库文件管理规范
+﻿# 此为仓库层级 .gitignore 文件，定义团队级别的仓库文件管理规范
 # 此文件仅能由授权的架构师进行修改
 #
 #      Author: Arthur Xu
@@ -11,8 +11,7 @@
 **/bin/
 
 # 忽略 IDEA 的项目配置信息及输出文件
-.idea
-target
+**/.idea/*
+**/target/
 **/out/
 *.iml
-
