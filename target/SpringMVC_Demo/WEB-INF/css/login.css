@@ -1,0 +1,22 @@
+#body{
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin:-150px 0 0 -100px;
+    width:300px;
+    height:200px;
+    background-color: aliceblue;
+    align-content: center;
+    text-align: center;
+}
+#result{
+    color: red;
+}
+input[type="submit"]{
+    line-height: 30px;
+    align-content: center;
+    margin: 0 100px 0 100px;
+}
+input{
+    line-height: 30px;
+}
