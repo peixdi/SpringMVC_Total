@@ -27,6 +27,7 @@
 <body>
 <table id="list"></table>'
 <div id="pager"></div>
+<span>test test test</span>
 </body>
 
 <script>
